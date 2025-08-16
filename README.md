@@ -1,2 +1,2 @@
-# Media-Coordination-Infrastructure
+# Media Coordination Infrastructure
 Optimization of my workflow 
