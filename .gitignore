@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Editors and local settings
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Node
+node_modules/
+dist/
+build/
+
+# Caches
+*.log
+.cache/
+coverage/
+
+# Keep heavy media out of this infra repo
+# RAW photos
+*.CR2 *.NEF *.ARW *.RAF *.DNG *.ORF *.RW2
+# Adobe project files
+*.psd *.ai *.indd *.aep *.prproj
+# Video
+*.mov *.mp4 *.mxf *.m4v *.avi
+# Big audio
+*.wav *.aiff *.aif *.flac
+
+# Local mirrors if you create them
+Media/
